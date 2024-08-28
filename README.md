@@ -5,7 +5,7 @@
 - 🌱 I’m interested in building web and mobile applications
 
 - 💞️ I’m currently learning ethical hacking just for fun
-- 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
